@@ -311,10 +311,7 @@ int main() {
             } else if (eadk_keyboard_key_down(state, eadk_key_seven)) {
                 page = 6;
                 selected_index = page * IMAGES_PER_PAGE;
-            } else if (eadk_keyboard_key_down(state, eadk_key_eight)) {
-                page = 7;
-                selected_index = page * IMAGES_PER_PAGE;
-            }
+            } 
             
         } else {
             if (eadk_keyboard_key_down(state, eadk_key_back)) {
