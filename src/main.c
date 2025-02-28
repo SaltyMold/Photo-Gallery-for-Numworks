@@ -201,7 +201,7 @@ const char *image_names[] = {
     "Arabe", "Bou Khalil 2.0", "Bou Khalil Original", "Bou Khalil Remasterise", "Chef Miche_", "Ching Ding Pam (Proverbe Chinois)", "Eugene jeune", "Eugene prime",
     "Golum prime", "Jean-Eudes", "Karadoc prime", "L_autre noir (aux dents de lapin)", "L_intello", "La serpillere de Gabriel", "La tete de cheval", "La tete enflee qui fait un signe",
     "Le catcheur non binaire rose", "Le gars de copilot (ia)", "Le gars de Geotastic", "Le H dissimule", "Le nain dans son bain", "Le noir", "Le rockeur exalte",
-    "Le roi degueulasse", "Le scientifique chauve", "Le vieux crouton Albert", "Melissa", "Tanguy", "None", //28
+    "Le roi degueulasse", "Le scientifique chauve", "Le vieux crouton Albert", "Melissa", "Tanguy", "None",
     "None", "None", "None", "None", "None", 
     "None", "None", "None", "None", "None",
     "None", "None", "None", "None", "None", 
