@@ -151,7 +151,7 @@ cd Photo-Gallery-for-Numworks
 make clean && make build
 ```
 
-You should now have a `output/app.nwa` file that you can distribute! Anyone can now install it on their calculator from the [NumWorks online uploader](https://my.numworks.com/apps).
+You should now have a **`output/app.nwa` file** that you can distribute! Anyone can now install it on their calculator from the **[NumWorks online uploader](https://my.numworks.com/apps)**.
 
 ## How I created this application
 
@@ -165,7 +165,7 @@ To build your own app, start by cloning the repository:
 git clone https://github.com/SaltyMold/Photo-Gallery-for-Numworks.git
 ```
 Inside the project, you'll find `eadk.h`, which provides **essential functions** for interacting with the **[calculator](https://en.wikipedia.org/wiki/NumWorks)**. Modify `main.c` to implement your own code.
-Additionally, make sure to include an `icon.png` with dimensions 55×56 pixels to serve as your **app’s icon**. Once your modifications are done, link the app with **[nwlink](https://www.npmjs.com/package/nwlink)** and enjoy your app!
+Additionally, make sure to include an `icon.png` with dimensions **55×56 pixels** to serve as your **app’s icon**. Once your modifications are done, link the app with **[nwlink](https://www.npmjs.com/package/nwlink)** and enjoy your app!
 
 ## Special thanks 
 
