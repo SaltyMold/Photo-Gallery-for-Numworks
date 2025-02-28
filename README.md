@@ -10,7 +10,8 @@
     <img alt="Written In" src="https://img.shields.io/badge/Written%20In-C-yellow?style=flat-square">
 </p>
 
-_This app is a [Photo Gallery](https://en.wikipedia.org/wiki/Art_gallery) reader that runs on the [NumWorks calculator](https://www.numworks.com), allowing users to view and navigate through images directly on their device. It provides a simple interface for browsing photos, making it ideal for quickly accessing and displaying visual content on the go._
+_This app is a [Photo Gallery](https://en.wikipedia.org/wiki/Art_gallery) reader that runs on the [NumWorks calculator](https://www.numworks.com), allowing users to view and navigate through images directly on their device. It can store up to **64 images** and provides a simple interface for browsing them, making it easy to access and display pictures anytime._
+
 
 ## Install the app
 
