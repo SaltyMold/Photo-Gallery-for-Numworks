@@ -20,19 +20,67 @@ To install this app, you'll need to:
 4. Head to [my.numworks.com/apps](https://my.numworks.com/apps) to send the `nwa` file on your calculator.
 
 ## How to use the app
-| Touche     | Action    |
-|------------|----------|
-| Home | Quit  |
-| Arrow Down | Down |
-| Arrow Up | Up |
-| OK | Select the photo |
-| 1 | Go to page 1 |
-| 2 | Go to page 2 |
-| 3 | Go to page 3 |
-| 4 | Go to page 4 |
-| 5 | Go to page 5 |
-| 6 | Go to page 6 |
-| 7 | Go to page 7 |
+
+<table>
+  <tr>
+    <td>
+      <table>
+        <tr>
+          <th>Touche</th>
+          <th>Action</th>
+        </tr>
+        <tr>
+          <td>Home</td>
+          <td>Quit</td>
+        </tr>
+        <tr>
+          <td>Arrow Down</td>
+          <td>Down</td>
+        </tr>
+        <tr>
+          <td>Arrow Up</td>
+          <td>Up</td>
+        </tr>
+        <tr>
+          <td>OK</td>
+          <td>Select the photo</td>
+        </tr>
+        <tr>
+          <td>1</td>
+          <td>Go to page 1</td>
+        </tr>
+        <tr>
+          <td>2</td>
+          <td>Go to page 2</td>
+        </tr>
+        <tr>
+          <td>3</td>
+          <td>Go to page 3</td>
+        </tr>
+        <tr>
+          <td>4</td>
+          <td>Go to page 4</td>
+        </tr>
+        <tr>
+          <td>5</td>
+          <td>Go to page 5</td>
+        </tr>
+        <tr>
+          <td>6</td>
+          <td>Go to page 6</td>
+        </tr>
+        <tr>
+          <td>7</td>
+          <td>Go to page 7</td>
+        </tr>
+      </table>
+    </td>
+    <td style="padding-left: 20px;">
+      <img src="https://cdn-icons-png.flaticon.com/512/1375/1375106.png" width="350" title="icon">
+    </td>
+  </tr>
+</table>
+
 
 ## Build the app
 
