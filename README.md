@@ -77,11 +77,10 @@ To install this app, you'll need to:
       </table>
     </td>
     <td style="padding-left: 20px;">
-      <img src="https://cdn-icons-png.flaticon.com/512/1375/1375106.png" width="350" title="icon">
+      <img src="https://github.com/user-attachments/assets/f83f2e0f-b4e3-4977-8148-41bc9169a03d" width="250" alt="Gallery-Photo-Numworks">
     </td>
   </tr>
 </table>
-
 
 ## Build the app
 
