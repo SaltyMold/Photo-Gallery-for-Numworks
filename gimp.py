@@ -1,3 +1,5 @@
+#Put this code in the gimp python console and it will output the image encoded in text
+
 import math
 
 
