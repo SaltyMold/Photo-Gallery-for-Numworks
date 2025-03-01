@@ -1,4 +1,4 @@
-<h1 align="center">Photo Gallery for Numworks Calculator</h1>
+<h1 align="center">Photo Gallery for the Numworks Calculator</h1>
 <p align="center">
     <img alt="Version" src="https://img.shields.io/badge/Version-1.0.0-blue?style=for-the-badge&color=blue">
     <img alt="Stars" src="https://img.shields.io/github/stars/SaltyMold/Photo-Gallery-for-Numworks?style=for-the-badge&color=magenta">
