@@ -162,7 +162,7 @@ make clean && make build
 
 You should now have a **`output/app.nwa` file** that you can distribute! Anyone can now install it on their calculator from the **[NumWorks online uploader](https://my.numworks.com/apps)**.
 
-## 🛠️ How I created this application
+## 💡 How I created this application
 
 I use **GIMP** to convert **images into text** (the GIMP Python code is available in the repository). The process works by **resizing the image to 320×240 pixels using a 52-color palette**. Each letter **represents a color from the palette**. The images are encoded like **"A5B3d7k2"**, which means 5 pixels of color A, 3 pixels of color B, 7 pixels of color d, and 2 pixels of color k. Then, the **C code** reconstructs and displays the image.
 
