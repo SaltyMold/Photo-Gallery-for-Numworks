@@ -13,14 +13,14 @@
 _This app is a **[Photo Gallery](https://en.wikipedia.org/wiki/Art_gallery)** reader that runs on the **[NumWorks calculator](https://www.numworks.com)**, allowing users to view and navigate through images directly on their device. It can store up to **64 images at a 320×240 resolution with 52 colors** and provides a simple interface for browsing them.  The app comes preinstalled with a collection of **funny pictures** to make classes more entertaining._
 
 
-## Install the app
+## 📕 Install the app
 
 To install this app, you'll need to:
 1. Download the latest **`Gallery.nwa`** file from the **[Releases](https://github.com/SaltyMold/Photo-Gallery-for-Numworks/releases)** page
 3. Connect your **NumWorks calculator** to your computer using a USB cable.  
 4. Head to **[my.numworks.com/apps](https://my.numworks.com/apps)** to send the **`nwa`** file on your **calculator**.
 
-## How to use the app
+## ⚙️ How to use the app
 
 <table>
   <tr>
@@ -82,7 +82,7 @@ To install this app, you'll need to:
   </tr>
 </table>
 
-## Build the app
+## 🛠️ Build the app
 
 ### Requirements:
 
@@ -162,11 +162,11 @@ make clean && make build
 
 You should now have a **`output/app.nwa` file** that you can distribute! Anyone can now install it on their calculator from the **[NumWorks online uploader](https://my.numworks.com/apps)**.
 
-## How I created this application
+## 🛠️ How I created this application
 
 I use **GIMP** to convert **images into text** (the GIMP Python code is available in the repository). The process works by **resizing the image to 320×240 pixels using a 52-color palette**. Each letter **represents a color from the palette**. The images are encoded like **"A5B3d7k2"**, which means 5 pixels of color A, 3 pixels of color B, 7 pixels of color d, and 2 pixels of color k. Then, the **C code** reconstructs and displays the image.
 
-## Build your own app
+## 🛠️ Build your own app
 
 To build your own app, start by cloning the repository:
 
@@ -176,6 +176,6 @@ git clone https://github.com/SaltyMold/Photo-Gallery-for-Numworks.git
 Inside the project, you'll find `eadk.h`, which provides **essential functions** for interacting with the **[calculator](https://en.wikipedia.org/wiki/NumWorks)**. Modify `main.c` to implement your own code.
 Additionally, make sure to include an `icon.png` with dimensions **55×56 pixels** to serve as your **app’s icon**. Once your modifications are done, link the app with **[nwlink](https://www.npmjs.com/package/nwlink)** and enjoy your app!
 
-## Special thanks 
+## 🌟 Special thanks 
 
 I followed the guide from [epsilon-sample-app-c](https://github.com/numworks/epsilon-sample-app-c) to build this app.
